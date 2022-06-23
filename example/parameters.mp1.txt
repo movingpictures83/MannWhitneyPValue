@@ -1,0 +1,6 @@
+metadata	metadata.csv
+abundance	abundance.csv
+group1	A
+group2	B
+group1a	C_A
+group2a	C_B
